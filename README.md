@@ -135,6 +135,6 @@ Call getMyLiquidityPositions() to check your liquidity positions.
 
 ## Conclusion
 
-This project successfully demonstrates the working of an Automatic Market Maker (AMM) using the constant product formula x * y = k. It allows swapping, providing liquidity, and withdrawing liquidity between ETH and ERC-20 tokens.
+This project successfully demonstrates the working of an Automatic Market Maker (AMM). It allows swapping, providing liquidity, and withdrawing liquidity between ETH and ERC-20 tokens.
 
 
